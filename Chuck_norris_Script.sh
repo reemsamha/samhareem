@@ -8,6 +8,7 @@ get_joke(){
     echo "$joke"
 }
 
+
 #Main script
 echo "Fetching Chuck Norris Jokes..."
 joke=$(get_joke)
